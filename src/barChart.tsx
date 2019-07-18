@@ -15,7 +15,7 @@ export const BarChart = class extends Component<BarChartProps, BarChartState> {
         super(props);
     };
 
-    componentDidUpdate() {
+    componentDidMount() {
         let canvasContext = document.getElementById('bar-chart') as HTMLCanvasElement;
         let chart = new Chart(canvasContext, {
             type: 'bar',

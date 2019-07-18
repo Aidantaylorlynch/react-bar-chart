@@ -1,6 +1,6 @@
 {
   "name": "react-really-easy-charts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple bar chart react component",
   "main": "dist/index.js",
   "scripts": {
