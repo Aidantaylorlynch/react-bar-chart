@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/Aidantaylorlynch/react-really-easy-charts#readme",
   "peerDependencies": {
-    "react": "~16.0"
+    "react": "~16.0",
+    "chart.js": "^2.8.0"
   },
   "devDependencies": {
     "@types/chart.js": "^2.7.55",
