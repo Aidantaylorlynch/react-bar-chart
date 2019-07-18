@@ -1,0 +1,36 @@
+{
+  "name": "react-really-easy-charts",
+  "version": "1.0.0",
+  "description": "A simple bar chart react component",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc && echo 'Finished building NPM package'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aidantaylorlynch/react-really-easy-charts"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "chart.js"
+  ],
+  "author": "Aidan Taylor-Lynch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aidantaylorlynch/react-really-easy-charts/issues"
+  },
+  "homepage": "https://github.com/Aidantaylorlynch/react-really-easy-charts#readme",
+  "peerDependencies": {
+    "react": "~16.0",
+    "chart.js": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.7.55",
+    "@types/react": "^16.8.23",
+    "chart.js": "^2.8.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "typescript": "^3.5.3"
+  }
+}
