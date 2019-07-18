@@ -1,6 +1,6 @@
 {
   "name": "react-really-easy-charts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple bar chart react component",
   "main": "dist/index.js",
   "scripts": {
@@ -23,9 +23,6 @@
   "homepage": "https://github.com/Aidantaylorlynch/react-really-easy-charts#readme",
   "peerDependencies": {
     "react": "~16.0"
-  },
-  "dependencies": {
-    "chart.js": "^2.8.0"
   },
   "devDependencies": {
     "@types/chart.js": "^2.7.55",
