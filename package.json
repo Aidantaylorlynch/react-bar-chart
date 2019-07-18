@@ -1,10 +1,10 @@
 {
   "name": "react-really-easy-charts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple bar chart react component",
   "main": "index.js",
   "scripts": {
-    "prepare": "tsc && echo 'Finished building NPM package'"
+    "prepare": "tsc --outDir . && echo 'Finished building NPM package'"
   },
   "repository": {
     "type": "git",
