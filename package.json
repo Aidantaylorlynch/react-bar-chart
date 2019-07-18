@@ -4,7 +4,7 @@
   "description": "A simple bar chart react component",
   "main": "dist/index.js",
   "scripts": {
-    "prepare": "tsc --outDir . && echo 'Finished building NPM package'"
+    "prepare": "tsc && echo 'Finished building NPM package'"
   },
   "repository": {
     "type": "git",
